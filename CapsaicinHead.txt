@@ -1,0 +1,342 @@
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c2c1CCCO2)O Cluster 3, 1 of 1
+*.*.*.*.* 46834182
+*.*.*.*.* 46834182
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c2c1scn2)O Cluster 1, 1 of 21
+*.*.*.*.* 46907340
+*.*.*.*.* 46907340
+C[C@H]1Cc2c(ccc(c2O1)O)CNC(=O)CCCC/C=C/C(C)C Cluster 2, 3 of 7
+CC(C)/C=C/CCCCC(=O)NCc1ccc(n2c1ccn2)O Cluster 1, 4 of 21
+*.*.*.*.* 47726229
+*.*.*.*.* 47726229
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c2c1cco2)O Cluster 1, 5 of 21
+*.*.*.*.* 46897384
+*.*.*.*.* 46897384
+Cc1c(c(ccc1CNC(=O)CCCC/C=C/C(C)C)O)C Query Analogs, 156 of 405
+*.*.* 46714034
+*.*.* 46714034
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1Cl)Cl)O Query Analogs, 212 of 405
+*.*.* 46751528
+*.*.* 46751528
+CC(C)/C=C/CCCCC(=O)NCc1ccc(nc1F)O Cluster 21, 8 of 12
+*.*.*.* 47768311
+*.*.*.* 47768311
+Cc1c(ccc(c1[C@@H]2CO2)O)CNC(=O)CCCC/C=C/C(C)C Cluster 10, 11 of 87
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)OC)CO Query Analogs, 261 of 405
+*.*.*.* 46480780
+*.*.*.* 46480780
+CCn1c(ccc(c1=O)N)CNC(=O)CCCC/C=C/C(C)C Cluster 17, 2 of 6
+*.*.*.* 46155614
+*.*.*.* 46155614
+Cc1nc2c(ccc(c2s1)CNC(=O)CCCC/C=C/C(C)C)O Cluster 1, 9 of 21
+*.*.*.*.* 46906902
+*.*.*.*.* 46906902
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)C(F)F)O Query Analogs, 93 of 405
+*.*.* 46243940
+*.*.* 46243940
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1Cl)C(=O)C)O Query Analogs, 233 of 405
+C[C@@H]1C[C@@H]1c2cc(ccc2O)CNC(=O)CCCC/C=C/C(C)C Cluster 10, 48 of 87
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1Cl)O)O Query Analogs, 269 of 405
+*.*.*.*.* 46752474
+*.*.*.*.* 46752474
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)C2CC2)O Cluster 10, 5 of 87
+CC(C)/C=C/CCCCC(=O)NCc1cc(c(c(c1)F)O)N Query Analogs, 289 of 405
+*.*.*.*.* 43657917
+*.*.*.*.* 43657917
+Cc1c(ccc(c1O)O)CNC(=O)CCCC/C=C/C(C)C Query Analogs, 242 of 405
+Cc1c(ccc(c1[C@H]2CO2)O)CNC(=O)CCCC/C=C/C(C)C Cluster 10, 15 of 87
+C[C@H](Cc1cc(ccc1O)CNC(=O)CCCC/C=C/C(C)C)Cl Query Analogs, 398 of 405
+*.*.* 46320085
+*.*.* 46320085
+Cc1c(ccc(c1N)O)CNC(=O)CCCC/C=C/C(C)C Query Analogs, 241 of 405
+*.*.*.*.* 46722773
+*.*.*.*.* 46722773
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1C(F)(F)F)[O-])O Cluster 26, 1 of 4
+CC(C)/C=C/CCCCC(=O)NCc1cc(c(c(c1)F)O)O Query Analogs, 301 of 405
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1F)OC)O Query Analogs, 28 of 405
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c2c1CCO2)O Cluster 2, 1 of 7
+CC(C)/C=C/CCCCC(=O)NCc1cc(c(cc1F)O)OC Query Analogs, 17 of 405
+CC(C)/C=C/CCCCC(=O)NCc1cc(c(s1)OC)CO Cluster 16, 3 of 7
+Cc1c(ccc(c1CCl)O)CNC(=O)CCCC/C=C/C(C)C Query Analogs, 234 of 405
+*.*.* 46720616
+*.*.* 46720616
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)/C=N/C)O Query Analogs, 108 of 405
+Cc1c(ccc([n+]1[O-])O)CNC(=O)CCCC/C=C/C(C)C Query Analogs, 232 of 405
+*.*.*.*.* 46149708
+*.*.*.*.* 46149708
+Cc1cc(cc(c1N)N)CNC(=O)CCCC/C=C/C(C)C Query Analogs, 283 of 405
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)O)N Query Analogs, 4 of 405
+*.*.*.* 46634477
+*.*.*.* 46634477
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1F)O)O Query Analogs, 238 of 405
+CC(C)/C=C/CCCCC(=O)NCc1cc(c(c(c1)F)N)O Query Analogs, 310 of 405
+*.*.*.*.* 43656827
+*.*.*.*.* 43656827
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)N=C)O Query Analogs, 21 of 405
+*.*.*.* 46425926
+*.*.*.* 46425926
+C[C@@H]1C[C@@H](C(=O)C(=C1CNC(=O)CCCC/C=C/C(C)C)C)O Cluster 20, 28 of 84
+*.*.*.* 5334677
+*.*.*.* 5334677
+C[C@H]1[C@H](O1)c2cc(ccc2O)CNC(=O)CCCC/C=C/C(C)C Cluster 10, 9 of 87
+CC(C)/C=C/CCCCC(=O)NCc1cc(c(c(c1)Cl)O)O Query Analogs, 320 of 405
+*.*.*.*.* 43644314
+*.*.*.*.* 43644314
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)/C=N\C)O Query Analogs, 98 of 405
+*.*.*.* 46219661
+*.*.*.* 46219661
+CC(C)/C=C/CCCCC(=O)NC[C@@H]1CC[C@H](C(=C)C1)O Cluster 20, 64 of 84
+*.*.* 26367474
+*.*.* 26367474
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)OC)N=C Query Analogs, 296 of 405
+*.*.* 46482805
+*.*.* 46482805
+Cc1cc(cc(c1O)N)CNC(=O)CCCC/C=C/C(C)C Query Analogs, 278 of 405
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)CN=C)O Query Analogs, 99 of 405
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1F)C(=O)C)O Query Analogs, 176 of 405
+Cc1cc(cc(c1N)O)CNC(=O)CCCC/C=C/C(C)C Query Analogs, 25 of 405
+CC(C)/C=C/CCCCC(=O)NCc1ccc(nc1F)N Cluster 21, 6 of 12
+Cc1c(ccc(c1Cl)O)CNC(=O)CCCC/C=C/C(C)C Query Analogs, 174 of 405
+*.*.* 46721924
+*.*.* 46721924
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)COC)N Query Analogs, 91 of 405
+*.*.*.* 46316417
+*.*.*.* 46316417
+CCn1c(ccc(c1=O)[O-])CNC(=O)CCCC/C=C/C(C)C Cluster 17, 3 of 6
+*.*.*.* 46155615
+*.*.*.* 46155615
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)N(C)C)N Query Analogs, 205 of 405
+*.*.* 46412323
+*.*.* 46412323
+Cc1cc(cc(c1O)O)CNC(=O)CCCC/C=C/C(C)C Query Analogs, 285 of 405
+*.*.*.*.* 43674728
+*.*.*.*.* 43674728
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)[C@H]2CO2)O Cluster 10, 1 of 87
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)F)O Query Analogs, 85 of 405
+[H]/N=C/c1cc(c(cc1OC)CNC(=O)CCCC/C=C/C(C)C)F Query Analogs, 405 of 405
+*.*.*.* 44074137
+*.*.*.* 44074137
+C[C@H]1C=C(C=C[C@H]1O)CNC(=O)CCCC/C=C/C(C)C Cluster 20, 74 of 84
+*.*.* 5408845
+*.*.* 5408845
+Cc1cc(cc(c1O)/C=N\C)CNC(=O)CCCC/C=C/C(C)C Query Analogs, 230 of 405
+*.*.*.* 43586366
+*.*.*.* 43586366
+Cc1c(ccc(c1F)CNC(=O)CCCC/C=C/C(C)C)O Query Analogs, 142 of 405
+*.*.* 46757561
+*.*.* 46757561
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)C(=C)C)O Query Analogs, 155 of 405
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)O)O Query Analogs, 3 of 405
+*.*.*.* 46634489
+*.*.*.* 46634489
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)COC)O Query Analogs, 89 of 405
+*.*.*.* 46316432
+*.*.*.* 46316432
+CC(C)/C=C/CCCCC(=O)NC[C@@H]1CC[C@H]([C@H](C1)OC)O Cluster 22, 6 of 29
+CC(C)/C=C/CCCCC(=O)NCc1cnc(c(c1Cl)OC)O Query Analogs, 308 of 405
+*.*.*.*.* 49160803
+*.*.*.*.* 49160803
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)N=C)OC Query Analogs, 371 of 405
+*.*.* 46425928
+*.*.* 46425928
+CC(C)/C=C/CCCCC(=O)NCc1cc(c(c(c1)F)CO)OC Query Analogs, 375 of 405
+*.*.*.* 43656145
+*.*.*.* 43656145
+CCOc1c(c(ccc1N)CNC(=O)CCCC/C=C/C(C)C)C Query Analogs, 67 of 405
+*.*.*.* 46730546
+*.*.*.* 46730546
+Cc1cc(cc(c1O)C)CNC(=O)CCCC/C=C/C(C)C Query Analogs, 114 of 405
+Cc1cc(cc(c1O)F)CNC(=O)CCCC/C=C/C(C)C Query Analogs, 122 of 405
+*.*.* 43657431
+*.*.* 43657431
+CC(C)/C=C/CCCCC(=O)NCc1cc(c(c(c1)Cl)N)O Query Analogs, 323 of 405
+*.*.*.*.* 43641779
+*.*.*.*.* 43641779
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)Cl)O Query Analogs, 82 of 405
+*.*.* 46359999
+*.*.* 46359999
+C[C@H]1C=C(C=C[C@@H]1O)CNC(=O)CCCC/C=C/C(C)C Cluster 20, 57 of 84
+*.*.* 5409469
+*.*.* 5409469
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)CO)O Query Analogs, 362 of 405
+*.*.*.*.* 46315526
+*.*.*.*.* 46315526
+CC(C)/C=C/CCCCC(=O)NC[C@@H]1CC[C@@H](C(=O)O1)O Cluster 20, 27 of 84
+Cc1c(ccc(c1F)O)CNC(=O)CCCC/C=C/C(C)C Query Analogs, 171 of 405
+*.*.* 46722341
+*.*.* 46722341
+Cc1cc(c(c(c1O)N)C)CNC(=O)CCCC/C=C/C(C)C Cluster 15, 66 of 74
+*.*.*.*.* 43791790
+*.*.*.*.* 43791790
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(n1)OC)O Query Analogs, 76 of 405
+*.*.*.*.* 46824409
+*.*.*.*.* 46824409
+Cc1c(cnc(c1OC)O)CNC(=O)CCCC/C=C/C(C)C Query Analogs, 299 of 405
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)C(=O)C)O Query Analogs, 90 of 405
+*.*.*.* 46226330
+*.*.*.* 46226330
+Cc1c(ccc(c1O)N)CNC(=O)CCCC/C=C/C(C)C Query Analogs, 22 of 405
+*.*.*.* 46736743
+*.*.*.* 46736743
+CC(C)/C=C/CCCCC(=O)NCC1=CCC(=C(C1)OC)O Cluster 22, 3 of 29
+CC(C)/C=C/CCCCC(=O)NCC1=CC(=O)[C@](CC1)(C)O Cluster 20, 15 of 84
+CC(C)/C=C/CCCCC(=O)NCc1cc(c(cc1F)CO)OC Query Analogs, 364 of 405
+*.*.*.* 44074545
+*.*.*.* 44074545
+[H]/N=C/c1ccc(cc1O)CNC(=O)CCCC/C=C/C(C)C Query Analogs, 378 of 405
+*.*.*.* 46634447
+*.*.*.* 46634447
+C[C@@H]1C=C(C=C[C@H]1O)CNC(=O)CCCC/C=C/C(C)C Cluster 20, 59 of 84
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)CCl)O Query Analogs, 71 of 405
+*.*.* 46310523
+*.*.* 46310523
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(n1)OC)N Query Analogs, 74 of 405
+CC(C)/C=C/CCCCC(=O)NC[C@H]1CC=C(C(=O)C1)O Cluster 20, 60 of 84
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1Cl)O)N Query Analogs, 26 of 405
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)N)N Query Analogs, 110 of 405
+CC1=C(CC[C@H](C1=O)O)CNC(=O)CCCC/C=C/C(C)C Cluster 20, 8 of 84
+*.*.*.* 5333943
+*.*.*.* 5333943
+[H]/N=C/c1cc(ccc1N)CNC(=O)CCCC/C=C/C(C)C Query Analogs, 396 of 405
+CC(C)/C=C/CCCCC(=O)NCC1=CC(=O)C(=O)C=C1 Cluster 20, 77 of 84
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)N)O Query Analogs, 109 of 405
+*.*.*.*.* 46417160
+*.*.*.*.* 46417160
+CC(C)/C=C/CCCCC(=O)NCc1cc(c(s1)CO)OC Cluster 16, 2 of 7
+*.*.*.* 44397129
+*.*.*.* 44397129
+CC(C)/C=C/CCCCC(=O)NCc1ccn(c(=O)c1)[O-] Query Analogs, 276 of 405
+*.*.* 48871821
+*.*.* 48871821
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)N(C)C)O Query Analogs, 88 of 405
+*.*.* 46412335
+*.*.* 46412335
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(n1)C#N)[O-] Query Analogs, 400 of 405
+*.*.*.*.* 46812053
+*.*.*.*.* 46812053
+CC(C)/C=C/CCCCC(=O)NCC1=C[C@H]([C@H](C=C1)CO)OC Cluster 22, 28 of 29
+*.*.*.* 5417299
+*.*.*.* 5417299
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)CO)N Query Analogs, 367 of 405
+*.*.*.*.* 46315388
+*.*.*.*.* 46315388
+CC(C)/C=C/CCCCC(=O)NCC1=C[C@@H]([C@@H](C=C1)CO)OC Cluster 22, 25 of 29
+*.*.*.* 5408837
+*.*.*.* 5408837
+CC(C)/C=C/CCCCC(=O)NC[C@@H]1CC[C@H]([C@@H](C1)C#N)O Cluster 22, 20 of 29
+*.*.*.* 26447911
+*.*.*.* 26447911
+CC(C)/C=C/CCCCC(=O)NCc1cc(c(s1)N)OC Cluster 16, 1 of 7
+*.*.*.* 44400567
+*.*.*.* 44400567
+CC(C)/C=C/CCCCC(=O)NCc1cc(n(c1)N)N Cluster 16, 6 of 7
+*.*.*.* 45545370
+*.*.*.* 45545370
+C[C@@H]1C[C@H](CC(=O)[C@H]1O)CNC(=O)CCCC/C=C/C(C)C Cluster 20, 31 of 84
+*.*.*.* 27583068
+*.*.*.* 27583068
+CC(C)/C=C/CCCCC(=O)NCc1ccn(c(=O)c1)N Query Analogs, 315 of 405
+*.*.* 48871150
+*.*.* 48871150
+CC(C)/C=C/CCCCC(=O)NCC1=CC(=O)[C@@H](C=C1)O Cluster 20, 22 of 84
+CC(C)/C=C/CCCCC(=O)NCC1=C[C@@H]([C@H](CC1)O)O Cluster 20, 58 of 84
+*.*.*.*.* 5409524
+*.*.*.*.* 5409524
+CC(C)/C=C/CCCCC(=O)NCC1=CC[C@@H](C(=C1)OC)O Cluster 22, 26 of 29
+*.*.*.* 5390270
+*.*.*.* 5390270
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)OC)OC Query Analogs, 262 of 405
+Cc1cc(cc(c1O)[C@@H]2[C@@H](O2)C)CNC(=O)CCCC/C=C/C(C)C Cluster 10, 37 of 87
+*.*.*.* 43717610
+*.*.*.* 43717610
+Cc1c(ccc(c1N)N)CNC(=O)CCCC/C=C/C(C)C Query Analogs, 252 of 405
+C[C@H]1C[C@@H](CC[C@@H]1O)CNC(=O)CCCC/C=C/C(C)C Cluster 20, 50 of 84
+*.*.* 26285607
+*.*.* 26285607
+CC(C)/C=C/CCCCC(=O)NCC1=CC(=O)[C@H](C=C1)O Cluster 20, 20 of 84
+CC(C)/C=C/CCCCC(=O)NC[C@@H]1CC[C@H]([C@@H](C1)Cl)O Cluster 20, 63 of 84
+*.*.* 26451480
+*.*.* 26451480
+CCOc1cc(ccc1O)CNC(=O)CCCC/C=C/C(C)C Query Analogs, 15 of 405
+CC(C)/C=C/CCCCC(=O)NCc1cc(c(nc1)O)OC Query Analogs, 77 of 405
+*.*.*.*.* 44328283
+*.*.*.*.* 44328283
+CC(C)/C=C/CCCCC(=O)NCC1=CC(=O)[C@@H](CC1)O Cluster 20, 3 of 84
+CC(C)/C=C/CCCCC(=O)NCc1cc(c(cc1F)NC)OC Query Analogs, 222 of 405
+*.*.* 44075601
+*.*.* 44075601
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)OC)NC Query Analogs, 95 of 405
+*.*.* 46482806
+*.*.* 46482806
+Cc1cc(ccc1O)CNC(=O)CCCC/C=C/C(C)C Query Analogs, 79 of 405
+*.*.* 46259889
+*.*.* 46259889
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1Cl)N)O Query Analogs, 294 of 405
+*.*.*.*.* 46752203
+*.*.*.*.* 46752203
+CCOc1cc(ccc1N)CNC(=O)CCCC/C=C/C(C)C Query Analogs, 19 of 405
+*.*.*.* 46496630
+*.*.*.* 46496630
+CC(C)/C=C/CCCCC(=O)NC[C@@H]1CC[C@H](C(=O)C1)O Cluster 20, 23 of 84
+CC(C)/C=C/CCCCC(=O)NCC1=C[C@H]([C@H](C=C1)O)OC Cluster 20, 12 of 84
+*.*.*.* 5417311
+*.*.*.* 5417311
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)OC)O Query Analogs, 2 of 405
+*.*.*.* 46483776
+*.*.*.* 46483776
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)[N+]#N)[O-] Query Analogs, 96 of 405
+CC(C)/C=C/CCCCC(=O)NC[C@@H]1CC[C@H]([C@@H](C1)OC)O Cluster 20, 10 of 84
+CC(C)/C=C/CCCCC(=O)NC[C@H]1CC[C@@H]([C@H](C1)Cl)O Cluster 20, 70 of 84
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(c1)OC)N Query Analogs, 1 of 405
+*.*.*.* 46492981
+*.*.*.* 46492981
+CC(C)/C=C/CCCCC(=O)NC[C@@H]1CC[C@@H](C(=C)C1)O Cluster 20, 52 of 84
+*.*.* 26177656
+*.*.* 26177656
+C[C@@H]1C[C@@H](CC[C@H]1O)CNC(=O)CCCC/C=C/C(C)C Cluster 20, 56 of 84
+*.*.* 26448745
+*.*.* 26448745
+Cc1cc(cc(c1O)[C@H]2CO2)CNC(=O)CCCC/C=C/C(C)C Cluster 10, 18 of 87
+*.*.*.* 43726681
+*.*.*.* 43726681
+CC(C)/C=C/CCCCC(=O)NCC1=[NH+]C[C@H](C(=O)N1C)O Cluster 20, 4 of 84
+*.*.*.* 5427942
+*.*.*.* 5427942
+CC(C)/C=C/CCCCC(=O)NC[C@H]1C[C@@H]([C@H](SC1)O)O Cluster 20, 83 of 84
+CC(C)/C=C/CCCCC(=O)NCc1ccc(c(n1)COC)N Query Analogs, 370 of 405
+*.*.*.*.* 46815780
+*.*.*.*.* 46815780
+CC(C)/C=C/CCCCC(=O)NCc1cc(c(nc1)N)OC Query Analogs, 75 of 405
+*.*.*.*.* 44319290
+*.*.*.*.* 44319290
+CC(C)/C=C/CCCCC(=O)NC[C@H]1CC[C@H]([C@@H](C1)O)O Cluster 20, 66 of 84
+*.*.*.*.* 35652514
+*.*.*.*.* 35652514
+CC(C)/C=C/CCCCC(=O)NCc1ccc([n+](c1)[O-])O Query Analogs, 113 of 405
+*.*.*.*.* 46149690
+*.*.*.*.* 46149690
+CC(C)/C=C/CCCCC(=O)NC[C@@H]1CC[C@@H](C(=O)C1)O Cluster 20, 11 of 84
+*.*.*.* 26177929
+*.*.*.* 26177929
+CC(C)/C=C/CCCCC(=O)NC[C@H]1CC[C@@H]([C@H](C1)OC)O Cluster 20, 6 of 84
+*.*.*.* 35489286
+*.*.*.* 35489286
+CC(C)/C=C/CCCCC(=O)NCC1=C[C@H]([C@@H](CC1)O)O Cluster 20, 55 of 84
+*.*.*.*.* 5416630
+*.*.*.*.* 5416630
+CC(C)/C=C/CCCCC(=O)NC[C@H]1C[C@H]([C@@H](CO1)O)OC Cluster 22, 19 of 29
+*.*.*.*.* 36761263
+*.*.*.*.* 36761263
+CC(C)/C=C/CCCCC(=O)NC[C@@H]1CC(=O)[C@@H](CO1)O Cluster 20, 67 of 84
+C[C@@H]1C[C@@H]1c2cc(c(cc2O)F)CNC(=O)CCCC/C=C/C(C)C Cluster 10, 85 of 87
+*.*.* 44076439
+*.*.* 44076439
+CC(C)/C=C/CCCCC(=O)NC[C@@H]1CC(=O)[C@H](CO1)O Cluster 20, 76 of 84
+CC(C)/C=C/CCCCC(=O)NCc1ncc(c(=O)n1C)[O-] Query Analogs, 243 of 405
+*.*.*.*.* 49790856
+*.*.*.*.* 49790856
+C[C@H]1[C@H]([C@@H](C[C@@H](O1)CNC(=O)CCCC/C=C/C(C)C)OC)O Cluster 22, 29 of 29
+*.*.*.*.* 36767975
+*.*.*.*.* 36767975
+CC/N=C/c1cc(cc(c1O)C)CNC(=O)CCCC/C=C/C(C)C Cluster 12, 26 of 26
+*.*.*.* 43586283
+*.*.*.* 43586283
